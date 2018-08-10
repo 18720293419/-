@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '开启雷仔的美梦时空'
+      msg: '开启小白的造梦时光'
     }
   }
 }
